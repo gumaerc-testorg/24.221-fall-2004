@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains notes on Frankfurt on Alternate Possibilities.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-221-metaphysics-free-will-fall-2004/af0291170d9ac6b298378e73ce2c07d5_frankfurt_i.pdf
+file: /media/courses/24-221-metaphysics-free-will-fall-2004/af0291170d9ac6b298378e73ce2c07d5_frankfurt_i.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: frankfurt_i.pdf
 uid: af029117-0d9a-c6b2-9837-8e73ce2c07d5
