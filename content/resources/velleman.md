@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 156768ec-95d5-6b79-f8ae-343934599960
 resourcetype: Document
 title: velleman.pdf
 uid: b18ad64a-d24b-7680-addc-18c7816920ea

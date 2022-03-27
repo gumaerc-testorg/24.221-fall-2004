@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 156768ec-95d5-6b79-f8ae-343934599960
 resourcetype: Document
 title: wegner.pdf
 uid: 033bf58f-a434-39d7-a5d7-9f9e76070e41

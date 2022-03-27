@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 156768ec-95d5-6b79-f8ae-343934599960
 resourcetype: Document
 title: consequence_argu.pdf
 uid: e18b39eb-8e48-fa4c-71ed-3c232d0a6e63

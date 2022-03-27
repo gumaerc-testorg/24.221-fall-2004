@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 156768ec-95d5-6b79-f8ae-343934599960
 resourcetype: Document
 title: modal_metaphysic.pdf
 uid: b4dcc6cd-3604-5b7f-8638-c56684f9abbc

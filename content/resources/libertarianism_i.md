@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 156768ec-95d5-6b79-f8ae-343934599960
 resourcetype: Document
 title: libertarianism_i.pdf
 uid: 197cec8b-5aab-41d4-a5f2-83a3393a6d06
