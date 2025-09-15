@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains notes on Reactions to Strawson.
-file: /courses/24-221-metaphysics-free-will-fall-2004/4b6c117a017378f5b50b735bc64c3848_watson.pdf
+file: /ol-ocw-studio-app/courses/24-221-metaphysics-free-will-fall-2004/4b6c117a017378f5b50b735bc64c3848_watson.pdf
+file_size: 49063
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

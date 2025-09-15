@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains notes on Strawson.
-file: /courses/24-221-metaphysics-free-will-fall-2004/660abb3eb768ac5b74f0b2fa0d1958f1_strawson.pdf
+file: /ol-ocw-studio-app/courses/24-221-metaphysics-free-will-fall-2004/660abb3eb768ac5b74f0b2fa0d1958f1_strawson.pdf
+file_size: 75307
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

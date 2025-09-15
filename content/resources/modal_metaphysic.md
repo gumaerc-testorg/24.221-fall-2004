@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains notes on Modal Metaphysics.
-file: /courses/24-221-metaphysics-free-will-fall-2004/b4dcc6cd36045b7f8638c56684f9abbc_modal_metaphysic.pdf
+file: /ol-ocw-studio-app/courses/24-221-metaphysics-free-will-fall-2004/b4dcc6cd36045b7f8638c56684f9abbc_modal_metaphysic.pdf
+file_size: 55786
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

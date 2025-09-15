@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains notes on Addiction.
-file: /courses/24-221-metaphysics-free-will-fall-2004/5cfc7c9cb4bdb6a524fa536c2b223dc0_addiction.pdf
+file: /ol-ocw-studio-app/courses/24-221-metaphysics-free-will-fall-2004/5cfc7c9cb4bdb6a524fa536c2b223dc0_addiction.pdf
+file_size: 62128
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains notes on Denying Closure of Unavoidability.
-file: /courses/24-221-metaphysics-free-will-fall-2004/f74854d680f2023b55e6a2a60a717e19_unavoidability.pdf
+file: /ol-ocw-studio-app/courses/24-221-metaphysics-free-will-fall-2004/f74854d680f2023b55e6a2a60a717e19_unavoidability.pdf
+file_size: 93006
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

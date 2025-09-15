@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This resource contains notes on Empirical Work: Social Psychology II.'
-file: /courses/24-221-metaphysics-free-will-fall-2004/b151dcf8ba83924db6beef75ceeded5f_agr_frm_illusion.pdf
+file: /ol-ocw-studio-app/courses/24-221-metaphysics-free-will-fall-2004/b151dcf8ba83924db6beef75ceeded5f_agr_frm_illusion.pdf
+file_size: 66233
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

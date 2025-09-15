@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Readings section contains required readings and readings by session for
+  the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -103,7 +105,7 @@ As much as you feel you can read of:
 
 van Inwagen, Peter. "An Argument for Incompatibilism." In _Free Will_.
 
-Notes on Modal Logic and Counterfactuals (see [lecture notes]({{< baseurl >}}/pages/lecture-notes))
+Notes on Modal Logic and Counterfactuals (see {{% resource_link 156768ec-95d5-6b79-f8ae-343934599960 "lecture notes" %}})
 
 
 {{< tdclose >}}

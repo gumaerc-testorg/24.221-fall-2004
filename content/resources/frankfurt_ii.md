@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains notes on Frankfurt's Higher Order Account.
-file: /courses/24-221-metaphysics-free-will-fall-2004/c392313cd61a7fca1e01a68b44606b85_frankfurt_ii.pdf
+file: /ol-ocw-studio-app/courses/24-221-metaphysics-free-will-fall-2004/c392313cd61a7fca1e01a68b44606b85_frankfurt_ii.pdf
+file_size: 73600
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

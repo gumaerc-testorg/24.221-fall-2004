@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains notes on Libertarianism I.
-file: /courses/24-221-metaphysics-free-will-fall-2004/197cec8b5aab41d4a5f283a3393a6d06_libertarianism_i.pdf
+file: /ol-ocw-studio-app/courses/24-221-metaphysics-free-will-fall-2004/197cec8b5aab41d4a5f283a3393a6d06_libertarianism_i.pdf
+file_size: 38053
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

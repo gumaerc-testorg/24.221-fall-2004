@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains notes on Choice and Freedom.
-file: /courses/24-221-metaphysics-free-will-fall-2004/b0f7132e99f0daa6b0e4629ff9150637_act_of_choice.pdf
+file: /ol-ocw-studio-app/courses/24-221-metaphysics-free-will-fall-2004/b0f7132e99f0daa6b0e4629ff9150637_act_of_choice.pdf
+file_size: 102812
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

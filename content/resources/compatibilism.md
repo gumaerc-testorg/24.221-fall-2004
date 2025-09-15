@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains notes on The Classical Compatibilist Account.
-file: /courses/24-221-metaphysics-free-will-fall-2004/872e6615f869b8ecee5689705ea68610_compatibilism.pdf
+file: /ol-ocw-studio-app/courses/24-221-metaphysics-free-will-fall-2004/872e6615f869b8ecee5689705ea68610_compatibilism.pdf
+file_size: 102259
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

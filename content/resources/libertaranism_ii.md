@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains notes on Libertarianism II.
-file: /courses/24-221-metaphysics-free-will-fall-2004/caf155135cbb2b71eb3f182609f87861_libertaranism_ii.pdf
+file: /ol-ocw-studio-app/courses/24-221-metaphysics-free-will-fall-2004/caf155135cbb2b71eb3f182609f87861_libertaranism_ii.pdf
+file_size: 79561
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

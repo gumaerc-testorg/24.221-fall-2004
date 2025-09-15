@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains notes on Modal Logic.
-file: /courses/24-221-metaphysics-free-will-fall-2004/d89bcc1fa48af7807c46c477ec02e197_modal_logic.pdf
+file: /ol-ocw-studio-app/courses/24-221-metaphysics-free-will-fall-2004/d89bcc1fa48af7807c46c477ec02e197_modal_logic.pdf
+file_size: 123847
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

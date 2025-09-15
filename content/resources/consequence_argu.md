@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains notes on Refining the Consequence Argument and
   'Could have Done Otherwise'.
-file: /courses/24-221-metaphysics-free-will-fall-2004/e18b39eb8e48fa4c71ed3c232d0a6e63_consequence_argu.pdf
+file: /ol-ocw-studio-app/courses/24-221-metaphysics-free-will-fall-2004/e18b39eb8e48fa4c71ed3c232d0a6e63_consequence_argu.pdf
+file_size: 67781
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
