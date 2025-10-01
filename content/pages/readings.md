@@ -22,7 +22,7 @@ Fischer, John Martin, and Mark Ravizza, eds. _Perspectives on Moral Responsibili
 
 Dennett, Daniel C. _Freedom Evolves_. New York, NY: Viking, 2003. ISBN: 0670031860.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262731621) Wegner, Daniel M. _The Illusion of Conscious Will_. Cambridge, MA: MIT Press, 2003. ISBN: 9780262731621.
+{{% resource_link "9fad7b2a-d276-4ddf-89bc-245c67213c9c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Wegner, Daniel M. _The Illusion of Conscious Will_. Cambridge, MA: MIT Press, 2003. ISBN: 9780262731621.
 
 Of these, only the Watson, which is a recent collection of key papers, is really essential to start with. The Fischer and Ravizza provides a number of additional papers that might be interesting; but I wouldn't advise buying it straightaway unless you are very keen. The Dennett and Wegner books raise various issues about the bearing of empirical work; we'll be discussing this towards the end of the course.
 
@@ -83,7 +83,7 @@ The Classical Compatibilist Account
 
 Nagel, Thomas. "Freedom." In _Free Will_.
 
-Hobbes, Thomas. [_Leviathan_](http://www.gutenberg.org/etext/3207). 1651, chapter XXI.
+Hobbes, Thomas. {{% resource_link "d5ca4842-ea36-4583-a7eb-d781cff512a6" "_Leviathan_" %}}. 1651, chapter XXI.
 
 
 {{< tdclose >}}
@@ -235,7 +235,7 @@ Frankfurt on Alternate Possibilities
 
 Frankfurt, Harry. "Alternate Possibilities and Moral Responsibility." _The Journal of Philosophy_ 66, no. 23 (December 4, 1969): 829-839.
 
-Locke, John. "Anticipation of Frankfurt" In [_Essay Concerning Human Understanding_](http://www.gutenberg.org/etext/10615). Book II, 1689, chapter XXI, section 10.
+Locke, John. "Anticipation of Frankfurt" In {{% resource_link "b0229f7e-4ed0-433c-af7c-ba18241ea6a3" "_Essay Concerning Human Understanding_" %}}. Book II, 1689, chapter XXI, section 10.
 
 
 {{< tdclose >}}
@@ -367,7 +367,7 @@ Empirical Work: Social Psychology I
 
 Wegner, Daniel M., and Thalia Wheatley. "Apparent Mental Causation." _American Psychologist_ 54, no. 7 (July 1999): 480-492.
 
-Wegner, Daniel M. [_The Illusion of Conscious Will_](https://mitpress.mit.edu/books/illusion-conscious-will). Especially chapters 1-3.
+Wegner, Daniel M. {{% resource_link "0c6426b7-38f9-4b1e-ac7c-018f593d893a" "_The Illusion of Conscious Will_" %}}. Especially chapters 1-3.
 
 
 {{< tdclose >}}
